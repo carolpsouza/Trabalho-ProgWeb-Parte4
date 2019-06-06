@@ -39,6 +39,6 @@
 		</c:forEach>
 	</tbody>
 </table>
-
+<p><a href="/Trabalho1/index.html">Voltar para menu</a></p>
 </body>
 </html>

@@ -10,7 +10,7 @@
 
 <p>Cliente adicionado</p>
 
-<p><a href="/Trabalho1/ListarClientes">Listar Clientes</a></p>
+<p><a href="/Trabalho1/index.html">Voltar para menu</a></p>
 
 </body>
 </html>
